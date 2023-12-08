@@ -40,8 +40,6 @@ public class EnchantmentCompensation extends Enchantment {
         return true;
     }
 
-    // Git HEHE
-
     @Override
     public boolean isAllowedOnBooks() {
         return true;

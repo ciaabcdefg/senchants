@@ -3,3 +3,5 @@ enchantment.senchants.compensation.desc=Repairs the item with this enchantment a
 
 enchantment.aquatic_mending=Aquatic Mending
 enchantment.senchants.aquatic_mending.desc=Repairs held items and armor while in a body of water.
+
+item.ingot_copper.name=Copper Ingot
