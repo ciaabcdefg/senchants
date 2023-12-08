@@ -1,0 +1,5 @@
+enchantment.compensation=Compensation
+enchantment.senchants.compensation.desc=Repairs the item with this enchantment and all items in the hotbar when taking damage from an enemy mob. Cannot be used with other durability-repairing enchantments.
+
+enchantment.aquatic_mending=Aquatic Mending
+enchantment.senchants.aquatic_mending.desc=Repairs held items and armor while in a body of water.
