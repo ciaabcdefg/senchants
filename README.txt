@@ -1,4 +1,4 @@
 # SENCHANTS
-# Seer's Enchants
+## Seer's Enchantments
 
 This mod adds OP enchantments to the game.
