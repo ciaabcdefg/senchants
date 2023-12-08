@@ -1,0 +1,16 @@
+[
+{
+  "modid": "senchants",
+  "name": "Senchants",
+  "description": "Seer's Enchantments simply adds new, overpowered enchantments to your game.",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ciaabcdefg"],
+  "credits": "...?",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
